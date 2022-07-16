@@ -46,10 +46,13 @@ header {
     }
     #MIstats{
         padding: 10px;
-        color: black;
+        color: #fff;
         background-color: #81a934;
         font-weight: bold;
-        border-radius: 5px;
+        border-radius: 10px;
+    }
+    #MIstats:hover{
+     color: black;
     }
 
     #right {
