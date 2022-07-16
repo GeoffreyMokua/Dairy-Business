@@ -2,6 +2,7 @@
 
 body {
     background-color: #18379c;
+    background-position: center;
 }
 
 
@@ -62,7 +63,7 @@ header {
     }
 
     #right h1{
-        color: white;
+        color: goldenrod;
         text-align: center;
         font-size: 2pc;
 
