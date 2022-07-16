@@ -56,19 +56,19 @@ header {
      color: black;
     }
 
-    #right {
+    #superright {
         width: 50%;
         padding: 10px 30px;
         justify-content: center;
     }
 
-    #right h1{
+    #superright h1{
         color: goldenrod;
         text-align: center;
         font-size: 2pc;
 
     }
-    #right #form{
+    #superright #form{
         display: flex;
         flex-wrap: wrap;
         justify-content: space-between;
