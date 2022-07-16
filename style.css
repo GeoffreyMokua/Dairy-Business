@@ -2,13 +2,11 @@
 
 body {
     background-color: #18379c;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
 }
-
-
-
-
 /* Navbar styling goes here */
-
 .navbar {
    display: flex;
    align-items: center;
@@ -146,6 +144,4 @@ font-size: 4pc;
     #weekly{
         background-image: linear-gradient(to left, black, transparent);
     }
-    /*#######End of Container########## */
-
-/************** Footer styling starts here****************** */
+    /*#######End of Container contents########## */
