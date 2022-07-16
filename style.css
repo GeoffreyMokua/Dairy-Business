@@ -81,13 +81,13 @@ header {
         margin: 3px;
     }
 
-    #right #form input{
+    #superright #form input{
         border-radius: 10px;
         border: none;
         padding: 10px;
         font-size: 1.2pc;
     }
-    #right #form input:focus{
+    #superright #form input:focus{
         /* remove focus border */
         outline: none;
 
