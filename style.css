@@ -17,7 +17,14 @@ body {
    height: 150px;
    background-color: #7FAA36;
 }
-
+#nav{
+padding-left: 20px;
+padding-top: -20px;
+text-decoration: none;
+font-weight: bold;
+color: #fff;
+font-size: 4pc;
+}
 
 
 /*############Ends here########## */
