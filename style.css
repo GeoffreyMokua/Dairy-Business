@@ -124,7 +124,7 @@ font-size: 4pc;
         top: 15px;
         gap: 5px;
         margin: auto;
-        box-shadow: 10px 10px 30px #7FAA36;
+        box-shadow: 10px 10px 30px #121311;
     }
     #daily{
         background-image: linear-gradient(to right, black, transparent);
@@ -137,9 +137,11 @@ font-size: 4pc;
         color: white;
         font-size: 1.5pc;
         font-weight: bold;
+        text-decoration: underline tomato 2px;
     }
     td{
         text-align: center;
+        
     }
     #weekly{
         background-image: linear-gradient(to left, black, transparent);
