@@ -27,9 +27,9 @@ header {
 /*############Ends here########## */
 
 
-/***********Start of Container************ */
+/***********Start of Container contents************ */
 
-.container {
+.contents {
     display: flex;
     position: relative;
     justify-content: space-between;
