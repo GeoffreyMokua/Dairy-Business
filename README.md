@@ -7,7 +7,7 @@
  ##### License
  ##### Authors Info
  ## Description
- This is a website that shows an agriculture website. It contains the different aspects of agriculture. The website has different methods of farming one can do.
+ This is a website that is used to display the dairy farm input production by collectin data from different shades then displaying the totals to form the weekly, monthly and yearly production
  ## Installation
  ### Requirements
   ##### Either a computer,phone or tablet
