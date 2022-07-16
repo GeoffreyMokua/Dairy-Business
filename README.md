@@ -15,6 +15,7 @@
  ## Technology Used
  ##### HTML- which was used to build the structure of the pages
  ##### CSS- it was used to style the pages including the navigating bar from the header towards the middle section and the footer.
+ ##### JS- it was used to create functions which collects the dairy production and displays the weekly, monthly and yearly reports
  ## License
  MIT License
 
@@ -38,7 +39,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
  ### link to github pages
- https://geoffreymokua.github.io/AgricultureWebsite/
+ https://geoffreymokua.github.io/Dairy-Business/
  ### Authors Info
  Slack Profile- Geoffrey Mokua
  Linkedin- Geoffrey Nyakundi
