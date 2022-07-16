@@ -77,7 +77,7 @@ data.addEventListener('submit',weeklyStats);
     }
 
 function getStats(){
-    let rate = prompt("Enter rate in Ksh ",'30.0');
+    let rate = prompt("Enter rate in Ksh ",'45.0');
     let rates=parseFloat(rate);
     let totalProductionDaily= parseFloat(val1.value)+parseFloat(val2.value)+parseFloat(val3.value)+parseFloat(val4.value);
     let weeklyIncome= rates*totalProductionDaily*7;
